@@ -75,4 +75,7 @@ breaks anything.
 - Poems: Tang dynasty, public domain.
 - Font: AR PL UKai TW by Arphic Technology Co., Arphic Public License
   (see `fonts/ARPHIC-PUBLIC-LICENSE.txt`).
-- Theme: MIT (see `LICENSE`).
+
+## License
+
+MIT License © 2026 Paulo Frank (see `LICENSE`).
