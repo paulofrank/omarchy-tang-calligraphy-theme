@@ -8,14 +8,17 @@ Tang dynasty poems in vertical calligraphy.
 
 ## Install
 
-Two steps — first download the theme, then activate it:
+Two steps — first download the theme, then activate it.
+
+**1. Download the theme** into Omarchy (to `~/.config/omarchy/themes/tang-calligraphy`):
 
 ```bash
-# 1. Download the theme into Omarchy (~/.config/omarchy/themes/tang-calligraphy)
 omarchy theme install https://github.com/paulofrank/omarchy-tang-calligraphy-theme
+```
 
-# 2. Apply it: regenerates your terminal, editor and desktop configs
-#    from the theme's palette and switches to its paper background
+**2. Apply it** — this regenerates your terminal, editor and desktop configs from the theme's palette and switches to its paper background:
+
+```bash
 omarchy theme set tang-calligraphy
 ```
 
